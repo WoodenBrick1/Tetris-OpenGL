@@ -48,7 +48,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows-windres.cmake"
   "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/Windows.cmake"
   "C:/Program Files/CMake/share/cmake-4.3/Modules/Platform/WindowsPaths.cmake"
-  "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/CMakeLists.txt"
+  "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/CMakeLists.txt"
   "CMakeFiles/4.3.2/CMakeCCompiler.cmake"
   "CMakeFiles/4.3.2/CMakeCXXCompiler.cmake"
   "CMakeFiles/4.3.2/CMakeRCCompiler.cmake"
@@ -72,5 +72,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
-  "CMakeFiles/hello_window.dir/DependInfo.cmake"
+  "CMakeFiles/tetris.dir/DependInfo.cmake"
   )

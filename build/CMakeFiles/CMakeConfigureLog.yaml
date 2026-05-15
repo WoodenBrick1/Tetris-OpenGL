@@ -44,12 +44,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -88,13 +88,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -152,13 +152,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -190,7 +190,7 @@ events:
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.exe"
       
       The C compiler identification is GNU, found in:
-        C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/4.3.2/CompilerIdC/a.exe
+        C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/4.3.2/CompilerIdC/a.exe
       
   -
     kind: "find-v1"
@@ -229,12 +229,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -269,13 +269,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -324,12 +324,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -364,13 +364,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -419,12 +419,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -459,13 +459,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -514,12 +514,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -554,13 +554,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -609,12 +609,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -649,13 +649,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -704,12 +704,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -744,13 +744,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -799,12 +799,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -839,13 +839,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -894,12 +894,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -934,13 +934,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -989,12 +989,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -1029,13 +1029,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -1084,12 +1084,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -1124,13 +1124,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -1179,12 +1179,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -1247,9 +1247,6 @@ events:
       - "C:/Program Files/Git/cmd/tapi.com"
       - "C:/Program Files/Git/cmd/tapi.exe"
       - "C:/Program Files/Git/cmd/tapi"
-      - "C:/Program Files/CMake/bin/tapi.com"
-      - "C:/Program Files/CMake/bin/tapi.exe"
-      - "C:/Program Files/CMake/bin/tapi"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/tapi.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/tapi.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/tapi"
@@ -1265,6 +1262,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/tapi.com"
       - "C:/Program Files/TortoiseSVN/bin/tapi.exe"
       - "C:/Program Files/TortoiseSVN/bin/tapi"
+      - "C:/Program Files/CMake/bin/tapi.com"
+      - "C:/Program Files/CMake/bin/tapi.exe"
+      - "C:/Program Files/CMake/bin/tapi"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/tapi.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/tapi.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/tapi"
@@ -1317,13 +1317,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -1375,12 +1375,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -1443,9 +1443,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar-15.2.com"
       - "C:/Program Files/Git/cmd/gcc-ar-15.2.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-15.2"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2.com"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2"
@@ -1461,6 +1458,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2"
@@ -1542,9 +1542,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar-15.com"
       - "C:/Program Files/Git/cmd/gcc-ar-15.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-15"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.com"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15"
@@ -1560,6 +1557,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15"
@@ -1641,9 +1641,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar15.com"
       - "C:/Program Files/Git/cmd/gcc-ar15.exe"
       - "C:/Program Files/Git/cmd/gcc-ar15"
-      - "C:/Program Files/CMake/bin/gcc-ar15.com"
-      - "C:/Program Files/CMake/bin/gcc-ar15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15"
@@ -1659,6 +1656,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15"
+      - "C:/Program Files/CMake/bin/gcc-ar15.com"
+      - "C:/Program Files/CMake/bin/gcc-ar15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15"
@@ -1712,13 +1712,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -1770,12 +1770,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -1838,9 +1838,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2"
@@ -1856,6 +1853,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2"
@@ -1937,9 +1937,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15"
@@ -1955,6 +1952,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15"
@@ -2036,9 +2036,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib15.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib15.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib15"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15"
@@ -2054,6 +2051,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15"
@@ -2107,13 +2107,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -2171,13 +2171,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -2209,7 +2209,7 @@ events:
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.exe"
       
       The CXX compiler identification is GNU, found in:
-        C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/4.3.2/CompilerIdCXX/a.exe
+        C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/4.3.2/CompilerIdCXX/a.exe
       
   -
     kind: "find-v1"
@@ -2251,12 +2251,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -2319,9 +2319,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar-15.2.com"
       - "C:/Program Files/Git/cmd/gcc-ar-15.2.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-15.2"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2.com"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.2"
@@ -2337,6 +2334,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.2"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.2"
@@ -2418,9 +2418,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar-15.com"
       - "C:/Program Files/Git/cmd/gcc-ar-15.exe"
       - "C:/Program Files/Git/cmd/gcc-ar-15"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.com"
-      - "C:/Program Files/CMake/bin/gcc-ar-15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar-15"
@@ -2436,6 +2433,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar-15"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.com"
+      - "C:/Program Files/CMake/bin/gcc-ar-15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar-15"
@@ -2517,9 +2517,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ar15.com"
       - "C:/Program Files/Git/cmd/gcc-ar15.exe"
       - "C:/Program Files/Git/cmd/gcc-ar15"
-      - "C:/Program Files/CMake/bin/gcc-ar15.com"
-      - "C:/Program Files/CMake/bin/gcc-ar15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ar15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ar15"
@@ -2535,6 +2532,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ar15"
+      - "C:/Program Files/CMake/bin/gcc-ar15.com"
+      - "C:/Program Files/CMake/bin/gcc-ar15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ar15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ar15"
@@ -2588,13 +2588,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -2646,12 +2646,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -2714,9 +2714,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.2"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.2"
@@ -2732,6 +2729,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.2"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.2"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.2"
@@ -2813,9 +2813,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib-15"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib-15"
@@ -2831,6 +2828,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib-15"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib-15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib-15"
@@ -2912,9 +2912,6 @@ events:
       - "C:/Program Files/Git/cmd/gcc-ranlib15.com"
       - "C:/Program Files/Git/cmd/gcc-ranlib15.exe"
       - "C:/Program Files/Git/cmd/gcc-ranlib15"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15.com"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15.exe"
-      - "C:/Program Files/CMake/bin/gcc-ranlib15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/gcc-ranlib15"
@@ -2930,6 +2927,9 @@ events:
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15.com"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15.exe"
       - "C:/Program Files/TortoiseSVN/bin/gcc-ranlib15"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15.com"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15.exe"
+      - "C:/Program Files/CMake/bin/gcc-ranlib15"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15.com"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15.exe"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/gcc-ranlib15"
@@ -2983,13 +2983,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -3041,12 +3041,12 @@ events:
       - "C:/Program Files/apache-maven-3.8.7/bin/"
       - "C:/Ninja/"
       - "C:/Program Files/Git/cmd/"
-      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
       - "C:/Program Files/LOVE/"
       - "C:/Program Files/nodejs/"
       - "C:/ProgramData/chocolatey/bin/"
       - "C:/Program Files/TortoiseSVN/bin/"
+      - "C:/Program Files/CMake/bin/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
       - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/"
@@ -3069,9 +3069,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files (x86)/hello_window/bin/"
-      - "C:/Program Files (x86)/hello_window/sbin/"
-      - "C:/Program Files (x86)/hello_window/"
+      - "C:/Program Files (x86)/tetris/bin/"
+      - "C:/Program Files (x86)/tetris/sbin/"
+      - "C:/Program Files (x86)/tetris/"
     searched_directories:
       - "C:/msys64/mingw64/bin/windres.com"
     found: "C:/msys64/mingw64/bin/windres.exe"
@@ -3096,13 +3096,13 @@ events:
         - "C:/Program Files/apache-maven-3.8.7/bin"
         - "C:\\Ninja"
         - "C:/Program Files/Git/cmd"
+        - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\Scripts"
+        - "C:/Program Files/LOVE"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:/ProgramData/chocolatey/bin"
+        - "C:\\Program Files\\TortoiseSVN\\bin"
+        - "C:/msys64/mingw64/bin"
         - "C:\\Program Files\\CMake\\bin"
-        - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts"
-        - "C:\\Program Files\\LOVE"
-        - "C:/Program Files/nodejs/"
-        - "C:\\ProgramData\\chocolatey\\bin"
-        - "C:/Program Files/TortoiseSVN/bin"
-        - "C:\\msys64\\mingw64\\bin"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python312/Scripts/"
         - "C:\\Users\\ASUS\\AppData\\Local\\Programs\\Python\\Python312\\"
         - "C:/Users/ASUS/AppData/Local/Programs/Python/Python310/Scripts/"
@@ -3114,13 +3114,13 @@ events:
         - "C:/Users/ASUS/Downloads/automate_online-materials"
         - "C:\\Users\\ASUS\\.dotnet\\tools"
         - "C:/Users/ASUS/AppData/Roaming/npm"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/hello_window"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/tetris"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/msys64/mingw64"
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/hello_window"
+        - "C:/Program Files (x86)/tetris"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -3130,8 +3130,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z"
-      binary: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z"
+      source: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr"
+      binary: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -3141,13 +3141,13 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z'
+        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_1c1d3/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1c1d3.dir\\build.make CMakeFiles/cmTC_1c1d3.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z'
-        Building C object CMakeFiles/cmTC_1c1d3.dir/CMakeCCompilerABI.c.obj
-        C:\\msys64\\mingw64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fe106/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fe106.dir\\build.make CMakeFiles/cmTC_fe106.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr'
+        Building C object CMakeFiles/cmTC_fe106.dir/CMakeCCompilerABI.c.obj
+        C:\\msys64\\mingw64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\gcc.exe
         Target: x86_64-w64-mingw32
@@ -3155,8 +3155,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev14, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_1c1d3.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o D:\\tmp d\\ccjjuSXk.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fe106.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o D:\\tmp d\\cc5VrDGs.s
         GNU C23 (Rev14, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.0, isl version isl-0.27-GMP
         
@@ -3175,14 +3175,14 @@ events:
          C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: f4560220967bb484270dc79ac66043ca
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj D:\\tmp d\\ccjjuSXk.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj D:\\tmp d\\cc5VrDGs.s
         GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.'
-        Linking C executable cmTC_1c1d3.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_1c1d3.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.'
+        Linking C executable cmTC_fe106.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_fe106.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\gcc.exe
         COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -3193,16 +3193,16 @@ events:
         gcc version 15.2.0 (Rev14, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c1d3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c1d3.'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjZjfbw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c1d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c1d3.dir/objects.a --no-whole-archive --out-implib libcmTC_1c1d3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fe106.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fe106.'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccVWnr5C.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fe106.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fe106.dir/objects.a --no-whole-archive --out-implib libcmTC_fe106.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjZjfbw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c1d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c1d3.dir/objects.a --no-whole-archive --out-implib libcmTC_1c1d3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccVWnr5C.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fe106.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fe106.dir/objects.a --no-whole-archive --out-implib libcmTC_fe106.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c1d3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c1d3.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_1c1d3.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_1c1d3.dir/objects.a @CMakeFiles\\cmTC_1c1d3.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\gcc.exe -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_1c1d3.dir/objects.a -Wl,--no-whole-archive -o cmTC_1c1d3.exe -Wl,--out-implib,libcmTC_1c1d3.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fe106.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fe106.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_fe106.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_fe106.dir/objects.a @CMakeFiles\\cmTC_fe106.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\gcc.exe -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_fe106.dir/objects.a -Wl,--no-whole-archive -o cmTC_fe106.exe -Wl,--out-implib,libcmTC_fe106.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr'
         
       exitCode: 0
   -
@@ -3235,13 +3235,13 @@ events:
       Parsed C implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z']
+        ignore line: [Change Dir: 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_1c1d3/fast]
-        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_1c1d3.dir\\build.make CMakeFiles/cmTC_1c1d3.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-2szs6z']
-        ignore line: [Building C object CMakeFiles/cmTC_1c1d3.dir/CMakeCCompilerABI.c.obj]
-        ignore line: [C:\\msys64\\mingw64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_fe106/fast]
+        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_fe106.dir\\build.make CMakeFiles/cmTC_fe106.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-6ro3mr']
+        ignore line: [Building C object CMakeFiles/cmTC_fe106.dir/CMakeCCompilerABI.c.obj]
+        ignore line: [C:\\msys64\\mingw64\\bin\\gcc.exe   -v -o CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\gcc.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -3249,8 +3249,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev14  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_1c1d3.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o D:\\tmp d\\ccjjuSXk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCCompilerABI.c -quiet -dumpdir CMakeFiles\\cmTC_fe106.dir\\ -dumpbase CMakeCCompilerABI.c.c -dumpbase-ext .c -mtune=generic -march=nocona -version -o D:\\tmp d\\cc5VrDGs.s]
         ignore line: [GNU C23 (Rev14  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.0  isl version isl-0.27-GMP]
         ignore line: []
@@ -3269,8 +3269,8 @@ events:
         ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: f4560220967bb484270dc79ac66043ca]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj D:\\tmp d\\ccjjuSXk.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj D:\\tmp d\\cc5VrDGs.s]
         ignore line: [GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46]
         ignore line: [COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/]
@@ -3281,9 +3281,9 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_1c1d3.dir\\CMakeCCompilerABI.c.']
-        ignore line: [Linking C executable cmTC_1c1d3.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_1c1d3.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.obj' '-c' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_fe106.dir\\CMakeCCompilerABI.c.']
+        ignore line: [Linking C executable cmTC_fe106.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_fe106.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\gcc.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -3301,14 +3301,14 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_1c1d3.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_1c1d3.']
-        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjZjfbw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c1d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c1d3.dir/objects.a --no-whole-archive --out-implib libcmTC_1c1d3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_fe106.exe' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_fe106.']
+        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccVWnr5C.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fe106.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fe106.dir/objects.a --no-whole-archive --out-implib libcmTC_fe106.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
           arg [-plugin-opt=-fresolution=D:\\tmp] ==> ignore
-          arg [d\\ccjZjfbw.res] ==> ignore
+          arg [d\\ccVWnr5C.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_eh] ==> ignore
@@ -3330,7 +3330,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_1c1d3.exe] ==> ignore
+          arg [cmTC_fe106.exe] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -3341,10 +3341,10 @@ events:
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_1c1d3.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_fe106.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_1c1d3.dll.a] ==> ignore
+          arg [libcmTC_fe106.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -3369,7 +3369,7 @@ events:
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjZjfbw.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_1c1d3.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_1c1d3.dir/objects.a --no-whole-archive --out-implib libcmTC_1c1d3.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccVWnr5C.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_eh -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_fe106.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_fe106.dir/objects.a --no-whole-archive --out-implib libcmTC_fe106.dll.a --major-image-version 0 --minor-image-version 0 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc -lgcc_eh -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'C': C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [gcc_eh]
         remove lib [msvcrt]
@@ -3410,8 +3410,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4"
-      binary: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4"
+      source: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab"
+      binary: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab"
     cmakeVariables:
       CMAKE_CXX_FLAGS: ""
       CMAKE_CXX_FLAGS_DEBUG: "-g"
@@ -3422,13 +3422,13 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4'
+        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_84997/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_84997.dir\\build.make CMakeFiles/cmTC_84997.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4'
-        Building CXX object CMakeFiles/cmTC_84997.dir/CMakeCXXCompilerABI.cpp.obj
-        C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_82040/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_82040.dir\\build.make CMakeFiles/cmTC_82040.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab'
+        Building CXX object CMakeFiles/cmTC_82040.dir/CMakeCXXCompilerABI.cpp.obj
+        C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe
         Target: x86_64-w64-mingw32
@@ -3436,8 +3436,8 @@ events:
         Thread model: posix
         Supported LTO compression algorithms: zlib zstd
         gcc version 15.2.0 (Rev14, Built by MSYS2 project) 
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_84997.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o D:\\tmp d\\cc5XTQf2.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_82040.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o D:\\tmp d\\cc1NqsNa.s
         GNU C++17 (Rev14, Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)
         	compiled by GNU C version 15.2.0, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.4.0, isl version isl-0.27-GMP
         
@@ -3462,14 +3462,14 @@ events:
          C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed
         End of search list.
         Compiler executable checksum: 41d1f02495f41b8b09b90745339bb3b2
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj D:\\tmp d\\cc5XTQf2.s
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj D:\\tmp d\\cc1NqsNa.s
         GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.'
-        Linking CXX executable cmTC_84997.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_84997.dir\\link.txt --verbose=1
+        COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.'
+        Linking CXX executable cmTC_82040.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_82040.dir\\link.txt --verbose=1
         Using built-in specs.
         COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe
         COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe
@@ -3480,16 +3480,16 @@ events:
         gcc version 15.2.0 (Rev14, Built by MSYS2 project) 
         COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/
         LIBRARY_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/;C:/msys64/mingw64/bin/../lib/gcc/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/;C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_84997.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_84997.'
-         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjxrSUh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_84997.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_84997.dir/objects.a --no-whole-archive --out-implib libcmTC_84997.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_82040.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_82040.'
+         C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccwBqDxe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_82040.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_82040.dir/objects.a --no-whole-archive --out-implib libcmTC_82040.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         collect2 version 15.2.0
-        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjxrSUh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_84997.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_84997.dir/objects.a --no-whole-archive --out-implib libcmTC_84997.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
+        C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccwBqDxe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_82040.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_82040.dir/objects.a --no-whole-archive --out-implib libcmTC_82040.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o
         GNU ld (GNU Binutils) 2.46
-        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_84997.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_84997.'
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_84997.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_84997.dir/objects.a @CMakeFiles\\cmTC_84997.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\g++.exe -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_84997.dir/objects.a -Wl,--no-whole-archive -o cmTC_84997.exe -Wl,--out-implib,libcmTC_84997.dll.a -Wl,--major-image-version,0,--minor-image-version,0
-        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4'
+        COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_82040.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_82040.'
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_82040.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_82040.dir/objects.a @CMakeFiles\\cmTC_82040.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\g++.exe -v -Wl,-v -Wl,--whole-archive CMakeFiles\\cmTC_82040.dir/objects.a -Wl,--no-whole-archive -o cmTC_82040.exe -Wl,--out-implib,libcmTC_82040.dll.a -Wl,--major-image-version,0,--minor-image-version,0
+        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab'
         
       exitCode: 0
   -
@@ -3528,13 +3528,13 @@ events:
       Parsed CXX implicit link information:
         link line regex: [^( *|.*[/\\])(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\\]+-)?ld|collect2)[^/\\]*( |$)]
         linker tool regex: [^[ 	]*(->|"|[0-9]+>[ 	-]*Build:[ 	0-9]+ ms[ 	]*)?[ 	]*(([^"]*[/\\])?(ld[0-9]*(|\\.[a-rt-z][a-z]*|\\.s[a-np-z][a-z]*|\\.so[a-z]+)))("|,| |$)]
-        ignore line: [Change Dir: 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4']
+        ignore line: [Change Dir: 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab']
         ignore line: []
-        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_84997/fast]
-        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_84997.dir\\build.make CMakeFiles/cmTC_84997.dir/build]
-        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-09amk4']
-        ignore line: [Building CXX object CMakeFiles/cmTC_84997.dir/CMakeCXXCompilerABI.cpp.obj]
-        ignore line: [C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"]
+        ignore line: [Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_82040/fast]
+        ignore line: [C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_82040.dir\\build.make CMakeFiles/cmTC_82040.dir/build]
+        ignore line: [mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-2uftab']
+        ignore line: [Building CXX object CMakeFiles/cmTC_82040.dir/CMakeCXXCompilerABI.cpp.obj]
+        ignore line: [C:\\msys64\\mingw64\\bin\\g++.exe   -v -o CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj -c "C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp"]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe]
         ignore line: [Target: x86_64-w64-mingw32]
@@ -3542,8 +3542,8 @@ events:
         ignore line: [Thread model: posix]
         ignore line: [Supported LTO compression algorithms: zlib zstd]
         ignore line: [gcc version 15.2.0 (Rev14  Built by MSYS2 project) ]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_84997.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o D:\\tmp d\\cc5XTQf2.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/cc1plus.exe -quiet -v -iprefix C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/ -D_REENTRANT C:\\Program Files\\CMake\\share\\cmake-4.3\\Modules\\CMakeCXXCompilerABI.cpp -quiet -dumpdir CMakeFiles\\cmTC_82040.dir\\ -dumpbase CMakeCXXCompilerABI.cpp.cpp -dumpbase-ext .cpp -mtune=generic -march=nocona -version -o D:\\tmp d\\cc1NqsNa.s]
         ignore line: [GNU C++17 (Rev14  Built by MSYS2 project) version 15.2.0 (x86_64-w64-mingw32)]
         ignore line: [	compiled by GNU C version 15.2.0  GMP version 6.3.0  MPFR version 4.2.2  MPC version 1.4.0  isl version isl-0.27-GMP]
         ignore line: []
@@ -3568,8 +3568,8 @@ events:
         ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/include-fixed]
         ignore line: [End of search list.]
         ignore line: [Compiler executable checksum: 41d1f02495f41b8b09b90745339bb3b2]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\']
-        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj D:\\tmp d\\cc5XTQf2.s]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\']
+        ignore line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/as.exe -v -o CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj D:\\tmp d\\cc1NqsNa.s]
         ignore line: [GNU assembler version 2.46 (x86_64-w64-mingw32) using BFD version (GNU Binutils) 2.46]
         ignore line: [COMPILER_PATH=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/]
@@ -3580,9 +3580,9 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_84997.dir\\CMakeCXXCompilerABI.cpp.']
-        ignore line: [Linking CXX executable cmTC_84997.exe]
-        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_84997.dir\\link.txt --verbose=1]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.obj' '-c' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'CMakeFiles\\cmTC_82040.dir\\CMakeCXXCompilerABI.cpp.']
+        ignore line: [Linking CXX executable cmTC_82040.exe]
+        ignore line: ["C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_82040.dir\\link.txt --verbose=1]
         ignore line: [Using built-in specs.]
         ignore line: [COLLECT_GCC=C:\\msys64\\mingw64\\bin\\g++.exe]
         ignore line: [COLLECT_LTO_WRAPPER=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe]
@@ -3600,14 +3600,14 @@ events:
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/]
         ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../]
-        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_84997.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_84997.']
-        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjxrSUh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_84997.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_84997.dir/objects.a --no-whole-archive --out-implib libcmTC_84997.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_82040.exe' '-shared-libgcc' '-mtune=generic' '-march=nocona' '-dumpdir' 'cmTC_82040.']
+        link line: [ C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccwBqDxe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_82040.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_82040.dir/objects.a --no-whole-archive --out-implib libcmTC_82040.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/collect2.exe] ==> ignore
           arg [-plugin] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll] ==> ignore
           arg [-plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe] ==> ignore
           arg [-plugin-opt=-fresolution=D:\\tmp] ==> ignore
-          arg [d\\ccjxrSUh.res] ==> ignore
+          arg [d\\ccwBqDxe.res] ==> ignore
           arg [-plugin-opt=-pass-through=-lmingw32] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
           arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
@@ -3629,7 +3629,7 @@ events:
           arg [i386pep] ==> ignore
           arg [-Bdynamic] ==> search dynamic
           arg [-o] ==> ignore
-          arg [cmTC_84997.exe] ==> ignore
+          arg [cmTC_82040.exe] ==> ignore
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o]
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0]
@@ -3640,10 +3640,10 @@ events:
           arg [-LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..] ==> dir [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../..]
           arg [-v] ==> ignore
           arg [--whole-archive] ==> ignore
-          arg [CMakeFiles\\cmTC_84997.dir/objects.a] ==> ignore
+          arg [CMakeFiles\\cmTC_82040.dir/objects.a] ==> ignore
           arg [--no-whole-archive] ==> ignore
           arg [--out-implib] ==> ignore
-          arg [libcmTC_84997.dll.a] ==> ignore
+          arg [libcmTC_82040.dll.a] ==> ignore
           arg [--major-image-version] ==> ignore
           arg [0] ==> ignore
           arg [--minor-image-version] ==> ignore
@@ -3669,7 +3669,7 @@ events:
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o]
           arg [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o] ==> obj [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         ignore line: [collect2 version 15.2.0]
-        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccjxrSUh.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_84997.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_84997.dir/objects.a --no-whole-archive --out-implib libcmTC_84997.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
+        ignore line: [C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/bin/ld.exe -plugin C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/liblto_plugin.dll -plugin-opt=C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/lto-wrapper.exe -plugin-opt=-fresolution=D:\\tmp d\\ccwBqDxe.res -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lpthread -plugin-opt=-pass-through=-ladvapi32 -plugin-opt=-pass-through=-lshell32 -plugin-opt=-pass-through=-luser32 -plugin-opt=-pass-through=-lkernel32 -plugin-opt=-pass-through=-lmingw32 -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lmingwex -plugin-opt=-pass-through=-lmsvcrt -plugin-opt=-pass-through=-lkernel32 -m i386pep -Bdynamic -o cmTC_82040.exe C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/crt2.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtbegin.o -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0 -LC:/msys64/mingw64/bin/../lib/gcc -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib/../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../x86_64-w64-mingw32/lib -LC:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../.. -v --whole-archive CMakeFiles\\cmTC_82040.dir/objects.a --no-whole-archive --out-implib libcmTC_82040.dll.a --major-image-version 0 --minor-image-version 0 -lstdc++ -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 -lpthread -ladvapi32 -lshell32 -luser32 -lkernel32 -lmingw32 -lgcc_s -lgcc -lmingwex -lmsvcrt -lkernel32 C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/../../../../lib/default-manifest.o C:/msys64/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/15.2.0/crtend.o]
         linker tool for 'CXX': C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe
         remove lib [msvcrt]
         remove lib [msvcrt]
@@ -3699,10 +3699,6 @@ events:
     message: |
       Running the CXX compiler's linker: "C:/msys64/mingw64/x86_64-w64-mingw32/bin/ld.exe" "-v"
       GNU ld (GNU Binutils) 2.46
-...
-
----
-events:
   -
     kind: "try_compile-v1"
     backtrace:
@@ -3717,8 +3713,8 @@ events:
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-8qzogc"
-      binary: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-8qzogc"
+      source: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-4eists"
+      binary: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-4eists"
     cmakeVariables:
       CMAKE_CXX_STDLIB_MODULES_JSON: ""
       CMAKE_C_FLAGS: ""
@@ -3728,19 +3724,19 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-8qzogc'
+        Change Dir: 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-4eists'
         
-        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_acc3d/fast
-        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_acc3d.dir\\build.make CMakeFiles/cmTC_acc3d.dir/build
-        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-8qzogc'
-        Building C object CMakeFiles/cmTC_acc3d.dir/src.c.obj
-        C:\\msys64\\mingw64\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles\\cmTC_acc3d.dir\\src.c.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Engines\\Opengl\\build\\CMakeFiles\\CMakeScratch\\TryCompile-8qzogc\\src.c
-        Linking C executable cmTC_acc3d.exe
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_acc3d.dir\\link.txt --verbose=1
-        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_acc3d.dir/objects.a
-        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_acc3d.dir/objects.a @CMakeFiles\\cmTC_acc3d.dir\\objects1.rsp
-        C:\\msys64\\mingw64\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_acc3d.dir/objects.a -Wl,--no-whole-archive -o cmTC_acc3d.exe -Wl,--out-implib,libcmTC_acc3d.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_acc3d.dir\\linkLibs.rsp
-        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/CMakeScratch/TryCompile-8qzogc'
+        Run Build Command(s): "C:/Program Files/CMake/bin/cmake.exe" -E env VERBOSE=1 C:/msys64/mingw64/bin/mingw32-make.exe -f Makefile cmTC_0edf7/fast
+        C:/msys64/mingw64/bin/mingw32-make.exe  -f CMakeFiles\\cmTC_0edf7.dir\\build.make CMakeFiles/cmTC_0edf7.dir/build
+        mingw32-make[1]: Entering directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-4eists'
+        Building C object CMakeFiles/cmTC_0edf7.dir/src.c.obj
+        C:\\msys64\\mingw64\\bin\\gcc.exe -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles\\cmTC_0edf7.dir\\src.c.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Games-In-OpenGL\\Tetris-OpenGL\\build\\CMakeFiles\\CMakeScratch\\TryCompile-4eists\\src.c
+        Linking C executable cmTC_0edf7.exe
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E cmake_link_script CMakeFiles\\cmTC_0edf7.dir\\link.txt --verbose=1
+        "C:\\Program Files\\CMake\\bin\\cmake.exe" -E rm -f CMakeFiles\\cmTC_0edf7.dir/objects.a
+        C:\\msys64\\mingw64\\bin\\ar.exe qc CMakeFiles\\cmTC_0edf7.dir/objects.a @CMakeFiles\\cmTC_0edf7.dir\\objects1.rsp
+        C:\\msys64\\mingw64\\bin\\gcc.exe -Wl,--whole-archive CMakeFiles\\cmTC_0edf7.dir/objects.a -Wl,--no-whole-archive -o cmTC_0edf7.exe -Wl,--out-implib,libcmTC_0edf7.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\\cmTC_0edf7.dir\\linkLibs.rsp
+        mingw32-make[1]: Leaving directory 'C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/CMakeScratch/TryCompile-4eists'
         
       exitCode: 0
   -
@@ -3782,19 +3778,19 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/pkgRedirects/glfw3Config.cmake"
+        path: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/pkgRedirects/glfw3Config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/pkgRedirects/glfw3-config.cmake"
+        path: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/pkgRedirects/glfw3-config.cmake"
         mode: "config"
         reason: "no_exist"
       -
-        path: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/pkgRedirects/lib/cps/glfw3.cps"
+        path: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/pkgRedirects/lib/cps/glfw3.cps"
         mode: "cps"
         reason: "no_exist"
       -
-        path: "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build/CMakeFiles/pkgRedirects/share/cps/glfw3.cps"
+        path: "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build/CMakeFiles/pkgRedirects/share/cps/glfw3.cps"
         mode: "cps"
         reason: "no_exist"
       -
@@ -3856,11 +3852,11 @@ events:
         - "C:/Users/ASUS/Downloads/automate_online-materials"
         - "C:\\Users\\ASUS\\.dotnet\\tools"
         - "C:/Users/ASUS/AppData/Roaming/npm"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/hello_window"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/tetris"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/msys64/mingw64"
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files (x86)/hello_window"
+        - "C:/Program Files (x86)/tetris"
 ...

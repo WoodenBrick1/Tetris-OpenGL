@@ -56,10 +56,10 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ASUS\Downloads\Programming\Engines\Opengl
+CMAKE_SOURCE_DIR = C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build
+CMAKE_BINARY_DIR = C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -86,16 +86,16 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles 0
 .PHONY : all
 
 # The main codegen target
 codegen: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\\CMakeFiles\progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\\CMakeFiles\progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 codegen
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles 0
 .PHONY : codegen
 
 # The main clean target
@@ -123,48 +123,48 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named hello_window
+# Target rules for targets named tetris
 
 # Build rule for target.
-hello_window: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 hello_window
-.PHONY : hello_window
+tetris: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 tetris
+.PHONY : tetris
 
 # fast build rule for target.
-hello_window/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/build
-.PHONY : hello_window/fast
+tetris/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/build
+.PHONY : tetris/fast
 
-src/glad.obj: src/glad.c.obj
-.PHONY : src/glad.obj
+src/libraries/glad.obj: src/libraries/glad.c.obj
+.PHONY : src/libraries/glad.obj
 
 # target to build an object file
-src/glad.c.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/glad.c.obj
-.PHONY : src/glad.c.obj
+src/libraries/glad.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/libraries/glad.c.obj
+.PHONY : src/libraries/glad.c.obj
 
-src/glad.i: src/glad.c.i
-.PHONY : src/glad.i
+src/libraries/glad.i: src/libraries/glad.c.i
+.PHONY : src/libraries/glad.i
 
 # target to preprocess a source file
-src/glad.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/glad.c.i
-.PHONY : src/glad.c.i
+src/libraries/glad.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/libraries/glad.c.i
+.PHONY : src/libraries/glad.c.i
 
-src/glad.s: src/glad.c.s
-.PHONY : src/glad.s
+src/libraries/glad.s: src/libraries/glad.c.s
+.PHONY : src/libraries/glad.s
 
 # target to generate assembly for a file
-src/glad.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/glad.c.s
-.PHONY : src/glad.c.s
+src/libraries/glad.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/libraries/glad.c.s
+.PHONY : src/libraries/glad.c.s
 
 src/main.obj: src/main.cpp.obj
 .PHONY : src/main.obj
 
 # target to build an object file
 src/main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/main.cpp.obj
 .PHONY : src/main.cpp.obj
 
 src/main.i: src/main.cpp.i
@@ -172,7 +172,7 @@ src/main.i: src/main.cpp.i
 
 # target to preprocess a source file
 src/main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/main.cpp.i
 .PHONY : src/main.cpp.i
 
 src/main.s: src/main.cpp.s
@@ -180,7 +180,7 @@ src/main.s: src/main.cpp.s
 
 # target to generate assembly for a file
 src/main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/src/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
 # Help Target
@@ -192,10 +192,10 @@ help:
 	@echo ... codegen
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... hello_window
-	@echo ... src/glad.obj
-	@echo ... src/glad.i
-	@echo ... src/glad.s
+	@echo ... tetris
+	@echo ... src/libraries/glad.obj
+	@echo ... src/libraries/glad.i
+	@echo ... src/libraries/glad.s
 	@echo ... src/main.obj
 	@echo ... src/main.i
 	@echo ... src/main.s

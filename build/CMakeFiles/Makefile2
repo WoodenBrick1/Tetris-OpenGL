@@ -53,20 +53,20 @@ RM = "C:\Program Files\CMake\bin\cmake.exe" -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\ASUS\Downloads\Programming\Engines\Opengl
+CMAKE_SOURCE_DIR = C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build
+CMAKE_BINARY_DIR = C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/hello_window.dir/all
+all: CMakeFiles/tetris.dir/all
 .PHONY : all
 
 # The main recursive "codegen" target.
-codegen: CMakeFiles/hello_window.dir/codegen
+codegen: CMakeFiles/tetris.dir/codegen
 .PHONY : codegen
 
 # The main recursive "preinstall" target.
@@ -74,40 +74,40 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/hello_window.dir/clean
+clean: CMakeFiles/tetris.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/hello_window.dir
+# Target rules for target CMakeFiles/tetris.dir
 
 # All Build rule for target.
-CMakeFiles/hello_window.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles --progress-num=1,2,3 "Built target hello_window"
-.PHONY : CMakeFiles/hello_window.dir/all
+CMakeFiles/tetris.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles --progress-num=1,2,3 "Built target tetris"
+.PHONY : CMakeFiles/tetris.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/hello_window.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles 3
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/hello_window.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles 0
-.PHONY : CMakeFiles/hello_window.dir/rule
+CMakeFiles/tetris.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles 3
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/tetris.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles 0
+.PHONY : CMakeFiles/tetris.dir/rule
 
 # Convenience name for target.
-hello_window: CMakeFiles/hello_window.dir/rule
-.PHONY : hello_window
+tetris: CMakeFiles/tetris.dir/rule
+.PHONY : tetris
 
 # codegen rule for target.
-CMakeFiles/hello_window.dir/codegen:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/codegen
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ASUS\Downloads\Programming\Engines\Opengl\build\CMakeFiles --progress-num=1,2,3 "Finished codegen for target hello_window"
-.PHONY : CMakeFiles/hello_window.dir/codegen
+CMakeFiles/tetris.dir/codegen:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/codegen
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=C:\Users\ASUS\Downloads\Programming\Games-In-OpenGL\Tetris-OpenGL\build\CMakeFiles --progress-num=1,2,3 "Finished codegen for target tetris"
+.PHONY : CMakeFiles/tetris.dir/codegen
 
 # clean rule for target.
-CMakeFiles/hello_window.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\hello_window.dir\build.make CMakeFiles/hello_window.dir/clean
-.PHONY : CMakeFiles/hello_window.dir/clean
+CMakeFiles/tetris.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\tetris.dir\build.make CMakeFiles/tetris.dir/clean
+.PHONY : CMakeFiles/tetris.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

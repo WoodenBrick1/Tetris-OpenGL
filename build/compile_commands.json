@@ -1,14 +1,14 @@
 [
 {
-  "directory": "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/hello_window.dir/includes_CXX.rsp -g -o CMakeFiles\\hello_window.dir\\src\\main.cpp.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Engines\\Opengl\\src\\main.cpp",
-  "file": "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/src/main.cpp",
-  "output": "CMakeFiles/hello_window.dir/src/main.cpp.obj"
+  "directory": "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -DGLFW_DLL @CMakeFiles/tetris.dir/includes_CXX.rsp -g -o CMakeFiles\\tetris.dir\\src\\main.cpp.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Games-In-OpenGL\\Tetris-OpenGL\\src\\main.cpp",
+  "file": "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/src/main.cpp",
+  "output": "CMakeFiles/tetris.dir/src/main.cpp.obj"
 },
 {
-  "directory": "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/build",
-  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DGLFW_DLL @CMakeFiles/hello_window.dir/includes_C.rsp -g -o CMakeFiles\\hello_window.dir\\src\\glad.c.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Engines\\Opengl\\src\\glad.c",
-  "file": "C:/Users/ASUS/Downloads/Programming/Engines/Opengl/src/glad.c",
-  "output": "CMakeFiles/hello_window.dir/src/glad.c.obj"
+  "directory": "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/build",
+  "command": "C:\\msys64\\mingw64\\bin\\gcc.exe -DGLFW_DLL @CMakeFiles/tetris.dir/includes_C.rsp -g -o CMakeFiles\\tetris.dir\\src\\libraries\\glad.c.obj -c C:\\Users\\ASUS\\Downloads\\Programming\\Games-In-OpenGL\\Tetris-OpenGL\\src\\libraries\\glad.c",
+  "file": "C:/Users/ASUS/Downloads/Programming/Games-In-OpenGL/Tetris-OpenGL/src/libraries/glad.c",
+  "output": "CMakeFiles/tetris.dir/src/libraries/glad.c.obj"
 }
 ]
